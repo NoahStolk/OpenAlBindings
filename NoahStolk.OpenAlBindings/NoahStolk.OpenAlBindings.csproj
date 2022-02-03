@@ -12,7 +12,6 @@
   <PropertyGroup Label="Package information">
     <Authors>Noah Stolk</Authors>
     <Copyright>Copyright © Noah Stolk</Copyright>
-    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageId>NoahStolk.OpenAlBindings</PackageId>
     <RepositoryType>git</RepositoryType>
     <RepositoryUrl>https://github.com/NoahStolk/OpenAlBindings</RepositoryUrl>
